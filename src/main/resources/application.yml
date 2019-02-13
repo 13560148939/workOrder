@@ -1,0 +1,6 @@
+server:
+  port: 8765
+
+http:
+  url: http://www.desheng-ai.com.cn:9000/rdms/index.php?m=task&f=recordEstimate&taskID=563&onlybody=yes
+  cookies: lang=zh-cn; device=desktop; theme=default; keepLogin=on; lastProduct=2; preProductID=2; preBranch=0; qaBugOrder=id_desc; productBrowseParam=0; productStoryOrder=id_desc; za=lzy; projectTaskOrder=pri_asc; zp=82b8d9c4381332cd647d34ba19a5b8f87c3bd026; lastProject=19; preProjectID=19; moduleBrowseParam=0; bugModule=25; selfClose=0; windowWidth=884; windowHeight=506; zentaosid=qq6ftin00dnr0db3p6fdv6g83p
